@@ -3,7 +3,6 @@ import streamlit as st
 import time
 import numpy as np
 import pandas as pd
-import sqlalchemy as sqla
 from datetime import timedelta, date
 import configparser
 st.set_page_config(layout='wide')
